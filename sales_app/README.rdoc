@@ -1,0 +1,16 @@
+== README
+
+* Config
+  Ruby 2.0.0
+  Rails 4.0.0
+  Sqlite db
+
+* Database creation
+  rake db:create
+
+* Database initialization
+  rake db:seed
+
+* Run tests with
+  rspec
+
